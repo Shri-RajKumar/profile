@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj kumar</h1>
 <h3 align="center">A passionate java developer from India.</h3>
 
-- 🌱 I’m currently learning **VB.net Windoe based programming language**
+- 🌱 I’m currently learning **VB.net Window based programming language**
 
 - 👯 I’m looking to collaborate on **java based developer**
 
